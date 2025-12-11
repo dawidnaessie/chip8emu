@@ -2,8 +2,7 @@
 
 A fully functional CHIP-8 interpreter written in C++. This project emulates the CPU, memory, timers, and graphics of the classic COSMAC VIP system.
 
-![CHIP-8 Demo](<img width="647" height="349" alt="image" src="https://github.com/user-attachments/assets/7ac23eab-1dae-4e74-b73d-963543fa02cb" />
-)
+![CHIP-8 Demo](https://github.com/user-attachments/assets/375e7493-0f79-4342-af5a-986f807a0d75")
 
 ## 🚀 Features
 
